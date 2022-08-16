@@ -1,8 +1,8 @@
 # counterpoints
 
-A new Flutter project.
+`flutter run` this here birb!
 
-## Getting Started
+## learn 📚
 
 This project is a starting point for a Flutter application.
 
