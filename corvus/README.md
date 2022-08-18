@@ -1,7 +1,10 @@
 # corvus
 ![](birb.jpg)
 
-Query Junø contrarct via `flutter_rust_bridge`
+This birb shows how to build native apps that can send Cosmos messages (incl. CosmWasm `instantiate` / `query` / `execute`) on [iPhone](https://github.com/Plurigrid/birbs/tree/main/corvus/ios), [Android](https://github.com/Plurigrid/birbs/tree/main/corvus/android), [macOS](https://github.com/Plurigrid/birbs/tree/main/corvus/macos), [Linux](https://github.com/Plurigrid/birbs/tree/main/corvus/linux), [Windows](https://github.com/Plurigrid/birbs/tree/main/corvus/windows) via `flutter_rust_bridge`.
+
+Junø [contract query example](https://github.com/Plurigrid/birbs/blob/main/corvus/native/src/api.rs#L116).
+## Key packages
 
 ```
 bip32 = { version = "0.4", optional = true }
