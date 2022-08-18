@@ -1,5 +1,6 @@
-# Corvus
+# corvus
 ![](birb.jpg)
+
 Query Junø contrarct via `flutter_rust_bridge`
 
 ```
