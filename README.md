@@ -18,3 +18,5 @@
 
 
 - [CSS style to Flutter code](https://github.com/drawcall/c2f)
+
+- [What's new in Flutter](https://www.youtube.com/watch?v=w_ezWG1yKQQ)
